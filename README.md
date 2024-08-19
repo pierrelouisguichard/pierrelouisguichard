@@ -7,8 +7,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrelouisguichard&layout=compact&theme=blueberry&hide=php" style="max-width:100%;">
 </div>
 
-https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png
-
 <br>
 
 <p align="center"> 
