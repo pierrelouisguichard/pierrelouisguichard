@@ -9,7 +9,6 @@
   <img height="160em" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Safo-Samson&theme=monokai-metallian&hide_border=true" style="max-width:100%;">
 </div>
 
-https://i.imgur.com/FRRivi1.gif
 
 <br>
 
