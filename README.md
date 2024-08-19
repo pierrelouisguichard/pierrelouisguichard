@@ -31,8 +31,8 @@
 <br>
 
 <div align="center">
-    <h4>🎯 "Consistency is the key to success." </h4>
-    <h4>🤝 "Collaboration powers innovation." </h4>
-    <h4>🌱 "A healthy mind in a healthy body."</h4>
+    <h3>🎯 "Consistency is the key to success." </h3>
+    <h3>🤝 "Collaboration powers innovation." </h3>
+    <h3>🌱 "A healthy mind in a healthy body."</h3>
 </div>
 
