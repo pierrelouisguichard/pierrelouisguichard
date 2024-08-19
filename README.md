@@ -1,3 +1,6 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
+
+
 <h1 align="center">
     Hello! I'm Pierre Guichard <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" width="3%">
 </h1>
