@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Pierre Guichard <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="5%"></h1>
+<h1 align="center">I'm Pierre Guichard <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="5%"></h1>
 <h3 align="center"> 👨‍💻 I'm Junior Software Engineer👨‍💻</h3>
 
 <br>
