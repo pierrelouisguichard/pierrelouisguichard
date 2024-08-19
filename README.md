@@ -10,7 +10,7 @@
 
 <br>
 
-<img alt="GIF" align="left" src="https://www.angelfire.lycos.com/doc/images/animate/colorpie.gif" width="120rem" style="max-width:100%;">
+<img alt="GIF" align="left" src="https://i.imgur.com/FRRivi1.gif" width="120rem" style="max-width:100%;">
 
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactJS" width="30" height="30"/> </a>
