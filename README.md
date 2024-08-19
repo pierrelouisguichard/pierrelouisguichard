@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> 
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="Mern" width="50" height="auto"/> </a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="Mern" height="50"/> </a>
  </p>
 
 <hr>
