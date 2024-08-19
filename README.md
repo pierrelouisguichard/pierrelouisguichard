@@ -11,16 +11,17 @@
 
 <h3 style="text-align: center">Skills</h3>
 
-<div align="center">
-  <img align="left" alt="Java" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="left" alt="JavaScript" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img  align="left"alt="TypeScript" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="React" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-  <img  align="left"alt="Flutter" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  <img  align="left" alt="HTML" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="left"alt="CSS" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img  align="left"alt="AWS" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="left"alt="NodeJS" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img align="left" alt="Python" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+<div style="text-align: center;">
+  <img alt="Java" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img alt="JavaScript" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="React" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+  <img alt="Flutter" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+  <img alt="HTML" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
+  <img alt="CSS" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
+  <img alt="AWS" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img alt="NodeJS" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img alt="Python" width="50px" style="margin-right: 80px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 </div>
+
 
