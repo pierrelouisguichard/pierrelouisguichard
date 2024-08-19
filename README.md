@@ -11,7 +11,7 @@
 
 <h3 style="text-align: center">Skills</h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center">
   <img alt="Java" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <img alt="JavaScript" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="TypeScript" width="50px" style="margin-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
