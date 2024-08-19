@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pierrelouisguichard&show_icons=true&theme=blueberry&rank_icon=github&hide_border=true" style="max-width:100%;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrelouisguichard&layout=compact&theme=blueberry&hide=php&hide_border=true" style="max-width:100%;">
 <!--   <img height="160em" src="https://i.imgur.com/FRRivi1.gif" style="max-width:100%; border-radius: 15px;"> -->
-  <img height="160em" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Safo-Samson&theme=monokai-metallian&hide_border=true" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=pierrelouisguichard&theme=blueberry&hide_border=true" style="max-width:100%;">
 </div>
 
 
