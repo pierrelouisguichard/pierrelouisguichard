@@ -1,5 +1,12 @@
 
 <h1 align="center">Hello! I'm Pierre Guichard <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" width="5%"></h1>
+
+<br>
+
+🎯 "Consistency is the key to success." 
+🤝 "Collaboration powers innovation." 
+🌱 "A healthy mind in a healthy body."
+
 <br>
 
 <div align="center">
