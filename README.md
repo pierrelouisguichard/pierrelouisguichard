@@ -1,5 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
-
+<div align="center">
+    <img src="https://web.archive.org/web/20091027062750im_/http://geocities.com/bobsoftware/line_an.gif">
+</div>
 
 <h1 align="center">
     Hello! I'm Pierre Guichard <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" width="3%">
@@ -19,7 +20,7 @@
   <img alt="C" width="60px" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img alt="Flutter" width="60px" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   <img alt="Firebase" width="60px" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"/>
-</div>
+
 
 <br>
 <br>
@@ -37,5 +38,11 @@
     <h3>🎯 "Consistency is the key to success." </h3>
     <h3>🤝 "Collaboration powers innovation." </h3>
     <h3>🌱 "A healthy mind in a healthy body."</h3>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://web.archive.org/web/20091027062750im_/http://geocities.com/bobsoftware/line_an.gif">
 </div>
 
