@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://web.archive.org/web/20091027062750im_/http://geocities.com/bobsoftware/line_an.gif">
-</div>
 
 <h1 align="center">
     Hello! I'm Pierre Guichard <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" width="3%">
@@ -43,6 +40,6 @@
 <br>
 
 <div align="center">
-    <img src="https://web.archive.org/web/20091027062750im_/http://geocities.com/bobsoftware/line_an.gif">
+    <img src="https://web.archive.org/web/20091025081715im_/http://www.geocities.com/va3jorsoftware/stormy.gif">
 </div>
 
